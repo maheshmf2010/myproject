@@ -3,3 +3,6 @@ Welcome to Ansible Playbook
 
 Apache
 jenkins
+git
+mariadb
+php
